@@ -21,7 +21,7 @@ So after completing the first two parts, I stopped.
 | 1112 | 1143 |
 | 654321 | 654354 |
 | 123456 | 123489 |
-| 123456789 | 12345714 |
+| 12345678 | 12345714 |
 
 ## About me
 
