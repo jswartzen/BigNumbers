@@ -9,7 +9,7 @@ I decided to break this solution down into three parts:
 2. Generalize the answer to a reproducible pattern
 3. Find the formula/proof to the general problem
 
-I was a Chemistry and Math major with minors in Computer Science and Physics, but I've spent my entire career in software development. 
+I was a Chemistry and Math major but I've spent my entire career in software development. 
 So after completing the first two parts, I stopped.
 
 ### Answers for various digit counts:
@@ -22,3 +22,8 @@ So after completing the first two parts, I stopped.
 | 654321 | 654354 |
 | 123456 | 123489 |
 | 123456789 | 12345714 |
+
+## About me
+
+John Swartzentruber
+B.S. 1985

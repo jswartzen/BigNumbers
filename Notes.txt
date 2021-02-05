@@ -1,0 +1,14 @@
+d = number of digits
+p = power of 10 but with 11 boundaries (i.e., for 1, 11, 111, 1111, 11111 it is 1, 2, 3, 4, 5)
+o = initial values from p calculation (e.g., 1, 11, 111, etc.) times 10 (e.g., 10, 110, 1110, etc.)
+
+sum of digits = 
+	n - p + sum of digits in (o - n)
+
+
+Giant Number
+	- digit count
+	- vector of digits
+	- Prepend function
+	- Add Function (or += )
+	
